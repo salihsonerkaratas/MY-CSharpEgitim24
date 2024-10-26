@@ -1,0 +1,8 @@
+--> Proje1 : Hello Word! , C# dili hakkında genel bilgiler verildi ve temel komutlar konusu işlendi.
+--> Proje2 : Değişkenler ve tip dönüşümleri, kullanıcıdan veri girişi gibi konuları işlendi.
+--> Proje3 : Karar yapıları, If Else, Switch Case, Break konuları işlendi.
+--> Proje4 : Örnek ile beraber For döngüsü ve While döngüsü konuları işlendi. 
+--> Proje5 : Döngüler, karar yapıları ve diğer konular kullanılarak örnek uygulamalar yapıldı.
+--> Proje6 : Diziler ve dizi metotları konuları işlendi.
+--> Proje7 : Foreach döngüsü konusu işlendi ve diğer döngüler kullanılarak örnek uygulama yapıldı. 
+--> Proje8 : Metotlar ve metot türleri konuları işlendi ve örnek uygulama yapıldı.
