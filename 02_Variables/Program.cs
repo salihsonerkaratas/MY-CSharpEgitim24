@@ -10,7 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
-            #region Dubole Değişkenler
+            #region Double Değişkenler
 
             //double number;
             //number = 4.85;

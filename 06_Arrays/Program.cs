@@ -123,7 +123,7 @@ namespace _06_Arrays
 
             #endregion
 
-            #region Kullanıcın Değer Alma
+            #region Kullanıcıdan Değer Alma
 
             //string[] cities = new string[5];
 
