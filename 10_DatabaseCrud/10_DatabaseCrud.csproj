@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A6D5A6F-620E-4D54-AACF-4791A1DB4299}</ProjectGuid>
+    <ProjectGuid>{48D42182-402D-4ECF-B8E4-3C4F1A924659}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_09_DatabaseProject</RootNamespace>
-    <AssemblyName>09_DatabaseProject</AssemblyName>
+    <RootNamespace>_10_DatabaseCrud</RootNamespace>
+    <AssemblyName>10_DatabaseCrud</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
