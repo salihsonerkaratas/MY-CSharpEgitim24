@@ -6,3 +6,5 @@
 --> Proje6 : Diziler ve dizi metotları konuları işlendi.                                                                                                                            
 --> Proje7 : Foreach döngüsü konusu işlendi ve diğer döngüler kullanılarak örnek uygulama yapıldı.                                                                                               
 --> Proje8 : Metotlar ve metot türleri konuları işlendi ve örnek uygulama yapıldı.                                                                                                                          
+--> Proje9 : Veri tabanına giriş, veri tabanları hakkında temel bilgiler verildi ve temel komutlar anlatıldı.
+--> Proje10 : Veri tabanı konusuna devam edildi. Uygulama üzerinden veri işlemleri yapıldı ve örnek uuygulama yapıldı.
